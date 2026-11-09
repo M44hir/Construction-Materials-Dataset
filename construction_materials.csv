@@ -1,0 +1,16 @@
+Material_ID,Material_Name,Unit,Unit_Price_USD
+M001,Cement,Bag,9.00
+M002,Sand,Cubic Meter,15.00
+M003,Gravel,Cubic Meter,20.00
+M004,Bricks,Piece,0.20
+M005,Steel Bars,Piece,8.00
+M006,Roofing Sheets,Piece,12.00
+M007,Wood,Piece,6.00
+M008,Paint,Liter,5.00
+M009,Tiles,Box,18.00
+M010,PVC Pipes,Piece,4.00
+M011,Nails,Kilogram,3.00
+M012,Glass,Square Meter,10.00
+M013,Concrete Blocks,Piece,0.80
+M014,Waterproofing Material,Liter,7.00
+M015,Door,Piece,45.00
